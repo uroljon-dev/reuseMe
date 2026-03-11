@@ -1,0 +1,696 @@
+{
+  "type": "FeatureCollection",
+  "name": "Tausch-und-Spende-Angebote-in-Muenster2024-dot",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Alte Apotheke- Nachbarschaftstreff",
+        "Kategorien": "K, H, B, W",
+        "Adresse": "Wolbecker Straße 304, 48151 Münster",
+        "Telefon": "0251 97448650",
+        "Webseite": "www.alteapothekems.de",
+        "Öffnungszeiten": "Mo, Di, Fr: 09:00 -18:00 Uhr, \nMi, Do: 09:00 - 15:00 Uhr",
+        "Spenden Annahme": "ja",
+        "Latitude": 51.9506788,
+        "Longitude": 7.67093559
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.67093559, 51.9506788]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Andrä",
+        "Kategorien": "S2",
+        "Adresse": "Verspoel 21, 48143 Münster",
+        "Telefon": "0251 4829010",
+        "Webseite": "www.cd-andrä.de",
+        "Öffnungszeiten": "Mo-Sa: 10:00-20:00 Uhr",
+        "Spenden Annahme": "nein",
+        "Latitude": 51.95766635,
+        "Longitude": 7.628248394
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.628248394, 51.95766635]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "An-& Verkauf Münster",
+        "Kategorien": "E, S2, W",
+        "Adresse": "Bahnhofstraße 68, 48143 Münster",
+        "Telefon": "0251 58130",
+        "Webseite": "",
+        "Öffnungszeiten": "Mo-Fr: 09:30- 12.30, 13:30- 18:30 Uhr, \nSa: 09:30-16:00 Uhr",
+        "Spenden Annahme": "nein",
+        "Latitude": 51.95405665,
+        "Longitude": 7.632613323
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.632613323, 51.95405665]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Chance Ev./ Möbel Trödel",
+        "Kategorien": "K, M, H, B, E",
+        "Adresse": "Friedrich-Ebert-Str. 7/15, 48153 Münster",
+        "Telefon": "0251 620880",
+        "Webseite": "www.chance-muenster.de",
+        "Öffnungszeiten": "Mo-Fr: 9.30-19.00 Uhr",
+        "Spenden Annahme": "ja",
+        "Latitude": 51.95245675,
+        "Longitude": 7.632407666
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.632407666, 51.95245675]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Christians An- und Verkauf",
+        "Kategorien": "F, M, H, S1, D, W",
+        "Adresse": "Hammer Straße 56, 48153 Münster",
+        "Telefon": "0251 5303559",
+        "Webseite": "www.hammerstrasse.com",
+        "Öffnungszeiten": "Mo - Fr 10:00 - 13:30 und 14:30 - 18:00 Uhr,\nSa 11:00 - 15:00 Uhr",
+        "Spenden Annahme": "nein",
+        "Latitude": 51.9506095,
+        "Longitude": 7.624566005
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.624566005, 51.9506095]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "DRK Kleiderladen",
+        "Kategorien": "K",
+        "Adresse": "Wolbeckerstr. 21, 48155 Münster",
+        "Telefon": "0251 74747642",
+        "Webseite": "www.drk-muenster.de",
+        "Öffnungszeiten": "Mo-Fr: 10:00-18:00 Uhr",
+        "Spenden Annahme": "ja",
+        "Latitude": 51.9586114,
+        "Longitude": 7.6359045
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.6359045, 51.9586114]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Edelfundus",
+        "Kategorien": "E, B, H, K, S1, S2, W",
+        "Adresse": "Dingbängerweg 215, 48161 Münster",
+        "Telefon": "",
+        "Webseite": "www.edelfundus.de",
+        "Öffnungszeiten": "Monatliche Flohmärkte, Spendenübergabe: Mo- Sa: 14.00 Uhr - 17.00 Uhr",
+        "Spenden Annahme": "ja",
+        "Latitude": 51.94026505,
+        "Longitude": 7.570093433
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.570093433, 51.94026505]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Flohmarkthalle",
+        "Kategorien": "M, H, K, D, F, B, W",
+        "Adresse": "Daimlerweg 34, 48163 Münster",
+        "Telefon": "0251 71071",
+        "Webseite": "www.flohmarkthalle.com",
+        "Öffnungszeiten": "Di, Mi, Fr: 11:00-17:00,\nDo: 11:00-20:00,\nSa: 11:00-16:00",
+        "Spenden Annahme": "nein",
+        "Latitude": 51.92787635,
+        "Longitude": 7.595691081
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.595691081, 51.92787635]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Henry Schirrmeister Modelleisenbahnen An- und Verkauf",
+        "Kategorien": "S2",
+        "Adresse": "Bült 19, 48143 Münster",
+        "Telefon": "0251 51657",
+        "Webseite": "www.henryschirrmeister.de",
+        "Öffnungszeiten": "Di-Fr: 11:00- 13:00, 15:00- 18:00 Uhr,\nSa: 11:00-16:00 Uhr",
+        "Spenden Annahme": "nein",
+        "Latitude": 51.96351935,
+        "Longitude": 7.631615332
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.631615332, 51.96351935]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Integrationsforum Münster e.V.",
+        "Kategorien": "F",
+        "Adresse": "Von Esmarch-Straße 63, \n48149 Münster",
+        "Telefon": "02533 583",
+        "Webseite": "www.integrationsforum-muenster.de/aktuelles",
+        "Öffnungszeiten": "Öffnungszeiten der internationalen Fahrradwerkstatt und Fahrradausgabe: Im Sommer: Fr: 15:00-18:00 Uhr, Im Winter: Fr: von 14:00- 17:00 Uhr",
+        "Spenden Annahme": "ja",
+        "Latitude": 51.96494685,
+        "Longitude": 7.591437632
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.591437632, 51.96494685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Kaufladen",
+        "Kategorien": "K",
+        "Adresse": "Tibusstraße 7-11, 48143 Münster",
+        "Telefon": "0251 4904970",
+        "Webseite": "www.kaufladen-muenster.de/verkaufen/",
+        "Öffnungszeiten": "Di- Fr:  11:00-18.00 Uhr, \nSa: 11.00-15.00 Uhr",
+        "Spenden Annahme": "nein",
+        "Latitude": 51.9658565,
+        "Longitude": 7.6261759
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.6261759, 51.9658565]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Kleiderkammer, Begegnungscafé",
+        "Kategorien": "K",
+        "Adresse": "Pfarrheim St. Norbert, Schneidemühler Straße 25, 48157 Münster",
+        "Telefon": "0251 233171",
+        "Webseite": "www.sankt-franziskus-muenster.de",
+        "Öffnungszeiten": "jeden 3. Mittwoch im Monat 10:00- 11:30 Uhr (Annahme von Kleidung), \njeden 1. Dienstag im Monat 15:00-17:00 Uhr (Ausgabe von Kleidung)",
+        "Spenden Annahme": "ja",
+        "Latitude": 51.99540165,
+        "Longitude": 7.649106121
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.649106121, 51.99540165]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Kleiderkammer Süd Ost",
+        "Kategorien": "K",
+        "Adresse": "Am Hohen Ufer 111a, 48167 Münster",
+        "Telefon": "0251 1355560",
+        "Webseite": "www.kleiderkammer-sued-ost.de",
+        "Öffnungszeiten": "Mo: 14:30 – 16:30 Uhr (Annahme von Kleidung), \nDi, Fr: nach Terminbuchung (Abgabe/Verkauf von Kleidung)",
+        "Spenden Annahme": "ja",
+        "Latitude": 51.92907395,
+        "Longitude": 7.692179882
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.692179882, 51.92907395]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Kleiderkammer Ostmarkstraße",
+        "Kategorien": "K",
+        "Adresse": "Ostmarkstr. 93, 48145 Münster",
+        "Telefon": "0251 62012000",
+        "Webseite": "www.sankt-mauritz.com",
+        "Öffnungszeiten": "Mo: 15:00-17:00 Uhr, Kleiderspende ab 16:00",
+        "Spenden Annahme": "ja",
+        "Latitude": 51.96816495,
+        "Longitude": 7.654930459
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.654930459, 51.96816495]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Kleiderkammer St. Clemens",
+        "Kategorien": "K, W",
+        "Adresse": "Patronatsstraße 2, 48165 Münster",
+        "Telefon": "02501 4888",
+        "Webseite": "www.sankt-clemens-hiltrup.de",
+        "Öffnungszeiten": "Mo: 09:00-12.00 Uhr (Annahme von Kleidung), \nDi: 09:00-12:00 Uhr, 15:00-17:00 Uhr (Annahme+ Verkauf), Mi, Do: 09:00-12:00 /(Annahme+ Verkauf)",
+        "Spenden Annahme": "ja",
+        "Latitude": 51.9044162,
+        "Longitude": 7.640542997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.640542997, 51.9044162]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Kleiderkammer im Kirchturm Heilig Geist",
+        "Kategorien": "K",
+        "Adresse": "Metzer Straße 35-39, 48151 Münster",
+        "Telefon": "0251 9709894",
+        "Webseite": "www.st-joseph-muenster-sued.de",
+        "Öffnungszeiten": "Di: 16:00- 17:00 Uhr (Annahme von Kleidung), Di 14:00 - 17:00 Uhr (Ausgabe von Kleidung)",
+        "Spenden Annahme": "ja",
+        "Latitude": 51.940381,
+        "Longitude": 7.6210648
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.6210648, 51.940381]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Kleiderkammer des Frauentreffs",
+        "Kategorien": "K, F, W",
+        "Adresse": "Wolbeckerstr. 16a, 48155 Münster",
+        "Telefon": "0251 13322380",
+        "Webseite": "www.skf-muenster.de",
+        "Öffnungszeiten": "Mo-Do: 9:00 - 16:00 Uhr, \nFr: bis 14:00",
+        "Spenden Annahme": "ja",
+        "Latitude": 51.9586192,
+        "Longitude": 7.6374768
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.6374768, 51.9586192]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Kleiderkammer Albachten (Flüchtlingshilfe Münster West)",
+        "Kategorien": "K",
+        "Adresse": "Im Pfarrhauskeller, Osthofstraße 1, 48163 Münster-Albachten",
+        "Telefon": "02536 346578",
+        "Webseite": "www.fluechtlingshilfe-muenster-west.de",
+        "Öffnungszeiten": "Mo: 15:00-17:00 Uhr (Annahme von Kleidung), \nDo: 15:00-17:00 Uhr (Ausgabe von Kleidung)",
+        "Spenden Annahme": "ja",
+        "Latitude": 51.92418565,
+        "Longitude": 7.526927918
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.526927918, 51.92418565]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Kleiderstube, Pfarrgemeinde St. Anna, Mecklenbeck (Flüchtlingshilfe Münster West)",
+        "Kategorien": "K",
+        "Adresse": "Am Hof Hesselmann 10, 48163 Münster-Mecklenbeck",
+        "Telefon": "0251 717613 / 0251 8998606",
+        "Webseite": "www.fluechtlingshilfe-muenster-west.de",
+        "Öffnungszeiten": "Mo: 08:00 – 10:00 Uhr (Annahme von Kleidung), \nDi: 15:00 – 17:00 (Ausgabe von Kleidung)",
+        "Spenden Annahme": "ja",
+        "Latitude": 51.93112945,
+        "Longitude": 7.577738798
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.577738798, 51.93112945]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Kleiderkaufhaus „Anziehungspunkt“",
+        "Kategorien": "K",
+        "Adresse": "Schmüllingstraße 4, 48159 Münster",
+        "Telefon": "0251-211991",
+        "Webseite": "www.st-marien-und-st-josef.de/anziehungspunkt/",
+        "Öffnungszeiten": "Di: 15:00 - 17:00 Uhr, \n Mi, Do: 10:00 - 12:00 Uhr",
+        "Spenden Annahme": "ja",
+        "Latitude": 52.00070545,
+        "Longitude": 7.600054926
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.600054926, 52.00070545]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "K4 Wohnungsauflösung Kurt Langkowski",
+        "Kategorien": "M, H, K, D, B, W",
+        "Adresse": "Rincklakeweg 11, 48153 Münster",
+        "Telefon": "0251 9713697",
+        "Webseite": "www.1a-wohnungsaufloesung-ms.de",
+        "Öffnungszeiten": "Mo - Sa: 09:00-14:00 Uhr",
+        "Spenden Annahme": "nein",
+        "Latitude": 51.92669745,
+        "Longitude": 7.621548743
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.621548743, 51.92669745]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "La Vie – Treffpunkt Gievenbeck - Kleiderkammer",
+        "Kategorien": "K",
+        "Adresse": "Dieckmannstr. 127, 48161 Münster",
+        "Telefon": "02536 346578",
+        "Webseite": "www.stadt-muenster.de/lavie/rat-hilfe",
+        "Öffnungszeiten": "Di: 15:00 - 17:00 Uhr, \nFr: 09:00 – 11:00Uhr",
+        "Spenden Annahme": "ja",
+        "Latitude": 51.9660566,
+        "Longitude": 7.5658057
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.5658057, 51.9660566]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Lieblingsstücke",
+        "Kategorien": "K",
+        "Adresse": "Warendorferstr. 16, 48145 Münster",
+        "Telefon": "0251 375140",
+        "Webseite": "www.lieblingsstücke-ms.de",
+        "Öffnungszeiten": "Mo - Fr: 10:00-18:30 Uhr",
+        "Spenden Annahme": "nein",
+        "Latitude": 51.9615965,
+        "Longitude": 7.6388681
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.6388681, 51.9615965]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Mona Lisa Mode",
+        "Kategorien": "K",
+        "Adresse": "Maximilianstr. 8, 48147 Münster",
+        "Telefon": "0251 2302499",
+        "Webseite": "www.monalisamode.de",
+        "Öffnungszeiten": "Mo - Fr: 15h-18h,\nSa: 10h-13h",
+        "Spenden Annahme": "nein",
+        "Latitude": 51.97005625,
+        "Longitude": 7.633171348
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.633171348, 51.97005625]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Obolus Kinderhauser Sozialladen",
+        "Kategorien": "H, M",
+        "Adresse": "Diesterwegstraße 4, 48159 Münster",
+        "Telefon": "0251 214000",
+        "Webseite": "www.st-marien-und-st-josef.de",
+        "Öffnungszeiten": "Di: 15:00 - 17:00 Uhr, \nMi: 10:30 – 12:00 Uhr, \nDo: 10:00 – 12:00 Uhr",
+        "Spenden Annahme": "ja",
+        "Latitude": 52.0005811,
+        "Longitude": 7.599705949
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.599705949, 52.0005811]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Oxfam",
+        "Kategorien": "K, H, B",
+        "Adresse": "Alter Fischmarkt 3-5, 48143 Münster",
+        "Telefon": "0251 4843537",
+        "Webseite": "shops.oxfam.de",
+        "Öffnungszeiten": "Mo - Fr: 10.00 - 18.00 Uhr,\nSa: 10.00 - 15.00 Uhr",
+        "Spenden Annahme": "ja",
+        "Latitude": 51.9635471,
+        "Longitude": 7.628857962
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.628857962, 51.9635471]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Raum 2",
+        "Kategorien": "M, W",
+        "Adresse": "Am Hawerkamp 31, 48155 Münster",
+        "Telefon": "",
+        "Webseite": "www.raum2.net",
+        "Öffnungszeiten": "Sa: 12:00-18:00 Uhr",
+        "Spenden Annahme": "nein",
+        "Latitude": 51.9446182,
+        "Longitude": 7.6386827
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.6386827, 51.9446182]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Sammelkiste",
+        "Kategorien": "H, E, K, D,W",
+        "Adresse": "Am Burloh 25, 48159 Münster",
+        "Telefon": "0251 28066665",
+        "Webseite": "www.der-ruempelesel.de",
+        "Öffnungszeiten": "",
+        "Spenden Annahme": "nein",
+        "Latitude": 51.99358075,
+        "Longitude": 7.608935804
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.608935804, 51.99358075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Ska-Treff",
+        "Kategorien": "K, B",
+        "Adresse": "Skagerrakstraße 2, 48145 Münster",
+        "Telefon": "0251 98622566",
+        "Webseite": "hvghirten.jimdo.com",
+        "Öffnungszeiten": "Mo, Do: 09:00-16:00 Uhr,\nFr: 09:00-17:00 Uhr",
+        "Spenden Annahme": "ja",
+        "Latitude": 51.9668956,
+        "Longitude": 7.6562298
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.6562298, 51.9668956]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "TRAG BAR (Flüchtlingshilfe Münster Ost)",
+        "Kategorien": "K",
+        "Adresse": "Ludwig-Wolker-Str. 8, 48157 Münster-Handorf",
+        "Telefon": "0251 39485036",
+        "Webseite": "www.fluechtlingshilfe-muenster-ost.de",
+        "Öffnungszeiten": "Mo: 10:00-12:00 Uhr, \nDo: 17:00-19:00 Uhr,\nFr: 14:00-16:00 Uhr,\nMi: 15:00-17:00 Uhr (Annahme von Kleiderspenden)",
+        "Spenden Annahme": "ja",
+        "Latitude": 51.98780265,
+        "Longitude": 7.700192823
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.700192823, 51.98780265]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Traumland",
+        "Kategorien": "M, K, D, W",
+        "Adresse": "Friedrichstraße 9, 48145 Münster",
+        "Telefon": "0251 28776566",
+        "Webseite": "www.perthes-traumland.de",
+        "Öffnungszeiten": "Mo- Fr: 10:00-18:00 Uhr",
+        "Spenden Annahme": "ja",
+        "Latitude": 51.9597369,
+        "Longitude": 7.635956221
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.635956221, 51.9597369]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Tierfreunde Münster, Tierschutzverein e.V.",
+        "Kategorien": "H, S1, S2, D, B, W",
+        "Adresse": "Kötterstraße 198, 48157 Münster - Handorf",
+        "Telefon": "0251 - 32 50 58",
+        "Webseite": "www.tierfreunde-ms.de/verein/flohmarkt/",
+        "Öffnungszeiten": "Sa/So: 14.00 - 17.00 Uhr,\nFeiertage 14.00 - 16.00 Uhr\noder nach Absprache",
+        "Spenden Annahme": "ja",
+        "Latitude": 51.9882925,
+        "Longitude": 7.7280302
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.7280302, 51.9882925]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Tierheim Münster, Bücher und Krammarkt",
+        "Kategorien": "B, S1, S2, D, H, W",
+        "Adresse": "Dingstiege 71, 48155 Münster",
+        "Telefon": "0251 326280",
+        "Webseite": "www.tierheim-muenster.de",
+        "Öffnungszeiten": "Jeden Do, Fr und Sa (außer an Feiertagen) von 14:00 – 17:00 Uhr an mehreren Stellen auf dem Tierheimgelände",
+        "Spenden Annahme": "ja",
+        "Latitude": 51.98204075,
+        "Longitude": 7.674469175
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.674469175, 51.98204075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Spenden & Verkaufen",
+        "Titel": "Vielfach Glück",
+        "Kategorien": "K",
+        "Adresse": "Sonnenstraße 70, 48143 Münster",
+        "Telefon": "0251 39582371",
+        "Webseite": "www.vielfachglück.de",
+        "Öffnungszeiten": "Montag-Freitag: 11:00-18:00, \nSamstag: 11:00-16:00",
+        "Spenden Annahme": "nein",
+        "Latitude": 51.96418355,
+        "Longitude": 7.633593147
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.633593147, 51.96418355]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Tauschen & Verleihen",
+        "Titel": "Leihothek",
+        "Kategorien": "H, S1, E, W",
+        "Adresse": "Steinfurter Straße 79, 48149 Münster",
+        "Telefon": "",
+        "Webseite": "www.leihothek.de",
+        "Öffnungszeiten": "Mo, Do: 16:00-18:00",
+        "Spenden Annahme": "",
+        "Latitude": 51.9724407,
+        "Longitude": 7.606173
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.606173, 51.9724407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Typ": "Tauschen & Verleihen",
+        "Titel": "LoWi- Lokale Wirtschaftsinitiative",
+        "Kategorien": "W",
+        "Adresse": "Paritätisches Zentrum, Dahlweg 112, 48153 Münster",
+        "Telefon": "",
+        "Webseite": "www.tauschring-lowi.de",
+        "Öffnungszeiten": "1. + 3. Di im Monat 16:00-18:00 Uhr,\n1., 2., 4. + 5. Sa im Monat 13:00-14:00 Uhr",
+        "Spenden Annahme": "",
+        "Latitude": 51.94022215,
+        "Longitude": 7.628877578
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.628877578, 51.94022215]
+      }
+    }
+  ]
+}
